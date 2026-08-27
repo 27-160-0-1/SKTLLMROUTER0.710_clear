@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "challenge_id": "ossp-2026-llm-router-challenge",
+  "repository_url": "https://github.com/27-160-0-1/SKTLLMROUTER0.710_clear",
+  "commit_sha": "e19f528691ff9253d7a5038edfacaf9286c441f4",
+  "image_digest": "docker.io/cometwoo/ossp-router@sha256:5d471431efaeb790b79b1f24a15feffe7317287536192aef55bc55222990f7c6",
+  "primary_license": "Apache-2.0"
+}
